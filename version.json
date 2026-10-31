@@ -1,9 +1,9 @@
 {
   "package": "com.flash.cleaner",
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "certSha256": "cec0776cbc5a6b3d0fe15a07b962ba6afdabdc4822836e95b19fc0656f90e2f2",
-  "notes": "System dialog နဲ့ cache အားလုံး ရှင်းနိုင်ပါပြီ။",
-  "apkUrl": "https://github.com/ziyinpromax/flash-cleaner/releases/download/v1.4/FlashCleaner.apk",
-  "apkSha256": "e31ae4befd816223093ff58be72ccf716bbd5662bb5413d1f325bcb4bc1d2ac8"
+  "notes": "System dialog cache ရှင်းခြင်း + လုံခြုံရေးစစ်ဆေးမှု ပိုပြည့်စုံပါပြီ။",
+  "apkUrl": "https://github.com/ziyinpromax/flash-cleaner/releases/download/v1.5/FlashCleaner.apk",
+  "apkSha256": "2bf6a6ff1c5e4a43a5e8dddfaaac3539f0ac307494e23bbbc85eff53b643e0a5"
 }
